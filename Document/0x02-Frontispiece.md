@@ -44,4 +44,4 @@ While both the MASVS and the MSTG are created and maintained by the community on
 
 [![NowSecure](images/NowSecure_logo.png)](https://www.nowsecure.com/ "NowSecure")
 
-Next, we would like to thank the OWASP Bay Area Chapther for their sponsorship. Last, we would like to thank everybody that bought the book from Leanpub and sponsored us that way.
+Next, we would like to thank the OWASP Bay Area Chapter for their sponsorship. Last, we would like to thank everybody that bought the book from Leanpub and sponsored us that way.
